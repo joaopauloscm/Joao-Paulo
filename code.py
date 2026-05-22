@@ -1,15 +1,11 @@
-
 class JoaoPaulo:
     def __init__(self):
-        self.name = "João Paulo Pereira Santana"
-        self.role = "Computer Science Student"
-        self.main_language = "Python"
-        self.current_focus = [
-            "Python fundamentals",
+        self.skills = [
             "Git and GitHub",
             "Problem solving",
             "Portfolio projects"
         ]
+
         self.goals = [
             "Junior Developer position",
             "AI and automation",
@@ -21,4 +17,13 @@ class JoaoPaulo:
 
 
 me = JoaoPaulo()
+
 print(me.status())
+
+print("\nSkills:")
+for skill in me.skills:
+    print("-", skill)
+
+print("\nGoals:")
+for goal in me.goals:
+    print("-", goal)
