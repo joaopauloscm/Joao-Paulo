@@ -1,6 +1,4 @@
-# Hi, I'm João Paulo 👋
 
-```python
 class JoaoPaulo:
     def __init__(self):
         self.name = "João Paulo Pereira Santana"
@@ -12,7 +10,6 @@ class JoaoPaulo:
             "Problem solving",
             "Portfolio projects"
         ]
-
         self.goals = [
             "Junior Developer position",
             "AI and automation",
@@ -25,4 +22,3 @@ class JoaoPaulo:
 
 me = JoaoPaulo()
 print(me.status())
-```
