@@ -16,6 +16,6 @@
 | • Prepare for junior developer opportunities               |
 | • Learn AI and automation with Python                      |
 +------------------------------------------------------------+
-| Status: Studying Python and building my developer portfolio |
+| Status: Studying Python and building my developer portfolio|
 +------------------------------------------------------------+
 ```
