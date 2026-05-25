@@ -1,4 +1,4 @@
-# Hi, I'm João Paulo 👋
+
 
 ``class JoaoPaulo:
     def __init__(self):
