@@ -1,7 +1,10 @@
 
-
-``class JoaoPaulo:
+```python
+class JoaoPaulo:
     def __init__(self):
+        self.name = "João Paulo Pereira Santana"
+        self.role = "Computer Science Student"
+        self.main_language = "Python"
         self.skills = [
             "Git and GitHub",
             "Problem solving",
@@ -19,14 +22,5 @@
 
 
 me = JoaoPaulo()
-
 print(me.status())
-
-print("\nSkills:")
-for skill in me.skills:
-    print("-", skill)
-
-print("\nGoals:")
-for goal in me.goals:
-    print("-", goal)
 ```
