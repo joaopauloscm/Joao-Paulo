@@ -1,26 +1,19 @@
-
-```python
-class JoaoPaulo:
-    def __init__(self):
-        self.name = "João Paulo Pereira Santana"
-        self.role = "Computer Science Student"
-        self.main_language = "Python"
-        self.skills = [
-            "Git and GitHub",
-            "Problem solving",
-            "Portfolio projects"
-        ]
-
-        self.goals = [
-            "Junior Developer position",
-            "AI and automation",
-            "Build real-world projects"
-        ]
-
-    def status(self):
-        return "Studying Python and building my developer portfolio."
-
-
-me = JoaoPaulo()
-print(me.status())
-```
+┌─────────────────────────────────────────────────────────────┐
+│                  João Paulo Pereira Santana                 │
+│                   Computer Science Student                  │
+│                    Main Language: Python                    │
+├─────────────────────────────────────────────────────────────┤
+│ [language]    Python                                         │
+│ [tools]       Git • GitHub • VS Code                         │
+│ [learning]    Python Fundamentals • Problem Solving          │
+│ [focus]       Portfolio Projects • Junior Developer Skills   │
+│ [interests]   AI • Automation • Software Development         │
+├─────────────────────────────────────────────────────────────┤
+│ Goals:                                                      │
+│   • Build real-world Python projects                        │
+│   • Improve my GitHub portfolio                             │
+│   • Prepare for junior developer opportunities              │
+│   • Learn AI and automation with Python                     │
+├─────────────────────────────────────────────────────────────┤
+│ Status: Studying Python and building my developer portfolio. │
+└─────────────────────────────────────────────────────────────┘
